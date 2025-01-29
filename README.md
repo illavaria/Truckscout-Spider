@@ -7,4 +7,6 @@ $ pip3 install -r requirements.txt
 2. To run the parser
 - install [Selenium WebDriver](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
 - run command
-- scrapy crawl trucks_spider
+```shell
+ $ scrapy crawl trucks_spider
+```
